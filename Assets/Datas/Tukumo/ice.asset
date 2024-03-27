@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20199d21b8145b40ab0acdcc1d11500, type: 3}
+  m_Name: ice
+  m_EditorClassIdentifier: 
+  name: "\u30A2\u30A4\u30B9\u30AA\u30FC\u30BF\u30E0"
+  detail: "\u30A2\u30A4\u30B9\u304C\u57FA\u306B\u306A\u3063\u3066\u3044\u308B\u3064\u304F\u3082\u3063\u3061\u3002\n\u898B\u305F\u76EE\u306B\u3088\u3089\u305A\u89E6\u308B\u3068\u51B7\u305F\u3044\u3002\n\u5C11\u3057\u8352\u3063\u307D\u3044\u6027\u683C\u3092\u3057\u3066\u3044\u308B\u3002\n\u6700\u521D\u306F\u30C4\u30F3\u30C4\u30F3\u3057\u3066\u308B\u304C\u3001\u61D0\u3044\u3066\u304F\u308B\u3068\u30C7\u30EC\u304C\u51FA\u3066\u304F\u308B\u3002"
+  max: 200
+  model: {fileID: 1223964843786727252, guid: 83b24de8f58d5064e8c969d97c4b3471, type: 3}
+  img: {fileID: 21300000, guid: 233143d324140b141bbdf0c368ca0208, type: 3}
+  konsekis:
+  - KonsekiData: {fileID: 11400000, guid: f7862e46ffb56024cae8220025517ce1, type: 2}
+    like: 90
+  - KonsekiData: {fileID: 11400000, guid: 9b76bb3737fdccb448ac40554f5fa92f, type: 2}
+    like: 90
+  - KonsekiData: {fileID: 11400000, guid: 2aa5d4cc1e3e2b24fb165e07627ae249, type: 2}
+    like: 10
+  - KonsekiData: {fileID: 11400000, guid: 66f18e1d2d462584da417b9c8ffde52b, type: 2}
+    like: -40
+  - KonsekiData: {fileID: 11400000, guid: 12a76ac8fdcbe014f8e0507f44b28152, type: 2}
+    like: -40
+  - KonsekiData: {fileID: 11400000, guid: 1dfe70268adf6ec40b0a79d6c6b88286, type: 2}
+    like: 85
+  - KonsekiData: {fileID: 11400000, guid: 28b08e567ea5e1240b28ef084a9ca43b, type: 2}
+    like: 50
+  - KonsekiData: {fileID: 0}
+    like: 100
+  - KonsekiData: {fileID: 0}
+    like: 80
+  - KonsekiData: {fileID: 0}
+    like: 50
+  - KonsekiData: {fileID: 0}
+    like: -50
